@@ -1,7 +1,6 @@
 ---
 title: Evaluation Tools Overview
-permalink: /evaluation/tools/
-redirect_from: /
+permalink: /test-evaluate/tools/
 layout: default
 ---
 
