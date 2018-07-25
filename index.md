@@ -10,7 +10,7 @@ github:
 <dl>
 <dt><a href="{{ "/test-evaluate/tools/selecting/" | relative_url }}">Selecting Web Accessibility Evaluation Tools</a></dt>
 <dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
-<dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List {{include_cached icon.html name="different-view" label="Different Format" }}</a></dt>
+<dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List {% include_cached icon.html name="different-view" label="Different Format" %}</a></dt>
 <dd> Includes information on almost 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
 </dl>
 
