@@ -14,4 +14,4 @@ github:
 <dd> Includes information on over 120 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
 </dl>
 
-<p>Related resources are described in: <a href="{{ "/text-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
+<p>Related resources are described in: <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
