@@ -33,6 +33,8 @@ This abuses the video-card component and tries to make it work with an embedded 
 
 <p>Related resources are described in: <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
 
+<hr>
+
 ##  Alternatives for Video Introduction - Overview {#alternatives}
 
 
