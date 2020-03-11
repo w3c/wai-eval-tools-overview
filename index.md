@@ -35,14 +35,15 @@ This abuses the video-card component and tries to make it work with an embedded 
 
 <hr>
 
+{% include excol.html type="start" id="video-intro-transcript" %}
+
 ##  Alternatives for Video Introduction - Overview {#alternatives}
 
+{% include excol.html type="middle" %}
 
 <p><a href="http://media.w3.org/wai/evaluation-intros/@@.mp4">Video Introduction - Overview on a W3C server (file format: MP4, file size: 28MB)</a></p>
 
-{% include excol.html type="start" id="video-intro-transcript" %}
 ###  Text Transcript with Description of Visuals for Video  Overview {#transcript}
-{% include excol.html type="middle" %}
 
 The videos have basic animation that illustrates what is said by an off-screen voice. People are represented by icon figures. 
 
