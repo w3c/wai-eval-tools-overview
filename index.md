@@ -5,10 +5,10 @@ layout: default
 github:
   repository: w3c/wai-eval-tools-overview
 footer: >
-  <p>Note about description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcripts with Description of Visuals (“descriptive transcripts”).</p>
-   <p><strong>Date:</strong> Updated 10 March 2020.</p>
+  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+   <p><strong>Date:</strong> Updated 28 April 2020.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-   <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="@@">Acknowledgments</a>.</p>
+   <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 <p>Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.</p>
@@ -16,12 +16,12 @@ footer: >
 {% comment %}
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
 {% endcomment %}
-<div class="video-card">
+<div class="video-card" id="video-intro">
   {% include video-player.html
-      yt-id="R8ZxY612LVY"
+      yt-id="bn1XJSjc_qM"
       captions="//media.w3.org/wai/evaluation-intros/tools-for-evaluating-cc.vtt"
   %}
-  <p><a href="#alternatives">Alternatives for Selecting and Using Tools</a></p>
+  <p><a href="#alternatives">Alternatives for Evaluation Tools Overview Video</a></p>
 </div>
 
 <dl>
@@ -37,11 +37,11 @@ This abuses the video-card component and tries to make it work with an embedded 
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-##  Alternatives for Selecting and Using Tools {#alternatives}
+##  Alternatives for Evaluation Tools Overview Video {#alternatives}
 
 {% include excol.html type="middle" %}
 
-<p><a href="https://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4">Selecting and Using Tools on a W3C server (file format: MP4, file size: 51B)</a></p>
+_This video is also available on a W3C server: [Video: Evaluation Tools Overview (file format: MP4, file size: 51MB)](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
 
 ###  Text Transcript with Description of Visuals for Selecting and Using Tools {#transcript}
 
@@ -115,4 +115,3 @@ The videos have basic animation that illustrates what is said by an off-screen v
   </tr>
 </tbody></table>
 {% include excol.html type="end" %}
-
