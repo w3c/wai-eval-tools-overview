@@ -1,9 +1,18 @@
 ---
 title: Evaluation Tools Overview
+lang: en
 permalink: /test-evaluate/tools/
-layout: default
 github:
   repository: w3c/wai-eval-tools-overview
+last_updated: 2020-04-28
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
+layout: default
+ref: /test-evaluate/tools/  # translators don't change this
+
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
    <p><strong>Date:</strong> Updated 28 April 2020.</p>
@@ -25,7 +34,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 </div>
 
 <dl>
-<dt><a href="{{ "/test-evaluate/tools/selecting/" | relative_url }}">Selecting Web Accessibility Evaluation Tools</a></dt>
+<dt>[[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)</dt>
 <dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
 <dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List</a></dt>
 <dd> Includes information on over 120 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
