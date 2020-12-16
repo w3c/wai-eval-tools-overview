@@ -20,11 +20,8 @@ footer: >
    <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
-<p>Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.</p>
+Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
 
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
 <div class="video-card" id="video-intro">
   {% include video-player.html
       yt-id="bn1XJSjc_qM"
@@ -33,14 +30,13 @@ This abuses the video-card component and tries to make it work with an embedded 
   <p><a href="#alternatives">Alternatives for Evaluation Tools Overview Video</a></p>
 </div>
 
-<dl>
-<dt>[[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)</dt>
-<dd> Provides guidance on choosing   tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.</dd>
-<dt><a href="https://www.w3.org/WAI/ER/tools/">Web Accessibility Evaluation Tools List</a></dt>
-<dd> Includes information on over 120 tools. You can use the filters to narrow down the list to the types of tools you are interested in.</dd>
-</dl>
+[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+:   Includes information on more than 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.
 
-<p>Related resources are described in: <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
+[[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)
+:   Provides guidance on choosing tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.
+
+Related resources are described in: [[Evaluating Web Accessibility Overview]](/test-evaluate/)
 
 <hr>
 
