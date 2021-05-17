@@ -1,123 +1,128 @@
 ---
-title: Evaluation Tools Overview
-lang: en
-permalink: /test-evaluate/tools/
+# Translation info https://www.w3.org/wiki/WAI/Website/Translate
+
+title: Outils d'évaluation - Vue d'ensemble
+
+lang: fr
+last_updated: 2021-05-17
+permalink: /test-evaluate/tools/fr
+
+translators:
+- name: "Rémi Bétin"
+
 github:
   repository: w3c/wai-eval-tools-overview
-  path: "content/index.md"
-last_updated: 2020-04-28
-# translators:   # delete the '#' and the space at the beginning of each line below that you use
-# - name: "first last"
-# contributors:
-# - name: "given family" 
+  path: "content/index.fr.md"
 
 layout: default
 ref: /test-evaluate/tools/  # translators don't change this
 
 footer: >
-  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-   <p><strong>Date:</strong> Updated 28 April 2020.</p>
-   <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-   <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
+footer: >
+  <p>Note à propos de la description vidéo : la vidéo présente sur cette page n'inclut pas l'audiodescription synchronisée car les images n'illustrent que l'audio et ne fournissent pas d'informations supplémentaires. Dans ce cas-ci, l'audiodescription serait plus distrayante qu'utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels ("transcription descriptive").</p>
+  <p><strong>Date :</strong> Mise à jour : 28 avril 2020.</p>
+   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Vidéo créée par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (convention de subvention n°822245) <a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
-Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
+Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des services en ligne qui aident à déterminer si le contenu Web répond aux standards de l'accessibilité.
 
 <div class="video-card" id="video-intro">
   {% include video-player.html
       yt-id="bn1XJSjc_qM"
       captions="/content-images/wai-eval-tools-overview/tools-for-evaluating-cc.vtt|en|Captions"
   %}
-  <p><a href="#alternatives">Alternatives for Evaluation Tools Overview Video</a></p>
+  <p><a href="#alternatives">Alternatives pour la vidéo "Vue d'ensemble des outils d'évaluation"</a></p>
 </div>
 
-[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
-:   Includes information on more than 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.
 
-[[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)
-:   Provides guidance on choosing tools. It describes the features and functionality of different types of evaluation tools, and discusses things to consider for your situation.
+[Liste des outils d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/ER/tools/)
+: Inclut des informations sur plus de 100 outils. Vous pouvez utiliser les filtres pour réduire la liste aux types d'outils qui vous intéressent.
 
-Related resources are described in: [[Evaluating Web Accessibility Overview]](/test-evaluate/)
+[[Choisir des outils d'évaluation de l'accessibilité Web]](/test-evaluate/tools/selecting/)
+: Fournit des conseils pour choisir des outils. La page décrit les caractéristiques et les fonctionnalités de différents types d'outils d'évaluation, et traite des éléments à prendre en considération en fonction de votre situation.
+
+Des ressources associées sont décrites dans : [[Évaluer l'accessibilité Web - Vue d'ensemble]](/test-evaluate/)
 
 <hr>
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-##  Alternatives for Evaluation Tools Overview Video {#alternatives}
+##  Alternatives pour la vidéo "Vue d'ensemble des outils d'évaluation" {#alternatives}
 
 {% include excol.html type="middle" %}
 
-_This video is also available on a W3C server: [Video: Evaluation Tools Overview (file format: MP4, file size: 51MB)](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
+_Cette vidéo est aussi disponible sur un serveur du W3C : [Vidéo : Vue d'ensemble des outils d'évaluation (format du fichier : MP4, taille du fichier : 51 Mo)](http://media.w3.org/wai/evaluation-intros/tools-for-evaluating.mp4)._
 
-###  Text Transcript with Description of Visuals for Selecting and Using Tools {#transcript}
+###  Transcription textuelle avec description des visuels pour "Choisir et utiliser les outils" {#transcript}
 
-The videos have basic animation that illustrates what is said by an off-screen voice. People are represented by icon figures. 
+Les vidéos contiennent des animations basiques qui illustrent ce qui est dit par une voix-off. Les personnes sont représentées par des icônes de personnages.
 
 <table aria-labelledby="transcript">
   <tbody><tr>
     <th align="left">Audio</th>
-    <th align="left">Visual</th>
+    <th align="left">Visuel</th>
   </tr>
   <tr>
-    <td>Tools for evaluating web accessibility </td>
-    <td>Tools for evaluating web accessibility.</td>
+    <td>Outils d'évaluation de l'accessibilité Web.</td>
+    <td>Outils d'évaluation de l'accessibilité Web.</td>
   </tr>
   <tr>
-    <td>There are software programs and online services to help you identify accessibility barriers. </td>
-    <td>A tool box by a computer opens. A magnifying glass with the word accessibility comes out to inspect a website on the computer.</td>
+    <td>Des logiciels et des services en ligne existent pour vous aider à identifier les freins à l'accessibilité. </td>
+    <td>Une boîte à outil avec un ordinateur s'ouvre. Une loupe avec le mot "accessibilité" apparaît pour inspecter un site Web sur l'ordinateur.</td>
   </tr>
   <tr>
-    <td>They can save you lots of time and effort on evaluation, and can help you avoid creating new accessibility barriers. </td>
-    <td>Save time and effort. Avoid accessibility barriers.</td>
+    <td>Ils peuvent vous faire économiser beaucoup de temps et d'effort lors d'une évaluation, et vous prémunir contre la création de nouveaux freins à l'accessibilité. </td>
+    <td>Économisez du temps et de l'effort. Éviter les freins à l'accessibilité.</td>
   </tr>
   <tr>
-    <td>However, tools can't do it all. Some accessibility checks just cannot be automated and require manual intervention. </td>
-    <td>A person next to a computer with a website uses a magnifying glass with the word accessibility.</td>
+    <td>Cependant, les outils ne peuvent pas tout. Certains vérifications de l'accessibilité ne peuvent pas être automatisées et nécessitent une intervention manuelle. </td>
+    <td>Une personne à côté d'un ordinateur affichant un site Web utilise une loupe avec le mot "accessibilité".</td>
   </tr>
   <tr>
-    <td>Some tools guide you through the checks that cannot be automated. </td>
-    <td>A list of checks next to the computer.</td>
+    <td>Certains outils vous guident à travers les vérifications qui ne peuvent pas être automatisées.</td>
+    <td>Une liste de vérifications à côté de l'ordinateur.</td>
   </tr>
   <tr>
-    <td>Some tools check one page at a time, while others can scan entire websites. </td>
-    <td>A web page and a web site are being scanned fails, passes and interrogations marks are shown.</td>
+    <td>Certains outils vérifient une page à la fois, d'autres peuvent scanner des sites Web entiers.</td>
+    <td>Pendant le scan d'une page Web et d'un site Web, des marques de réussite, d'échecs et des points d'interrogations sont affichés.</td>
   </tr>
   <tr>
-    <td>Tools can be integrated into different work environments. For example, into your web browser, content management system (C-M-S), and your development and deployment tools. </td>
-    <td>Web browser, CMS and deployment around a tools icon displayed in a computer.</td>
+    <td>Les outils peuvent être intégrés à différents environnements de travail. Par exemple, au sein de votre navigateur Web, de votre système de gestion de contenu (C-M-S) et de vos outils de développement et de déploiement. </td>
+    <td>Les mots "navigateur Web", "CMS" et "déploiement" sont affichés autour d'une icône d'outils affichée dans un ordinateur.</td>
   </tr>
   <tr>
-    <td>They support different roles in a project team, such as content authors, code developers, designers, and product owners. </td>
-    <td>The tools icon is surrounded with icons: pen; coding; paintbrush and person with a key.</td>
+    <td>Ils accompagnent différents rôles au sein d'une équipe projet, tels que les créateurs de contenu, les développeurs, les designers et les <i lang="en">product owners</i>. </td>
+    <td>L'icône des outils est entourée d'icônes : un stylo ; une icône illustrant le codage ; un pinceau et une personne avec une clé.</td>
   </tr>
   <tr>
-    <td>Note that in some cases tools can provide inaccurate results. </td>
-    <td>A magnifying glass with a triangular exclamation mark sign.Multiple magnifying glasses are displayed.
+    <td>Notez bien que dans certains cas, les outils peuvent fournir des résultats erronés. </td>
+    <td>Une loupe avec un point d'exclamation dans un triangle. Plusieurs loupes sont affichées.
  </td>
   </tr>
   <tr>
-    <td>So avoid relying too much on what tools say over addressing the real-life experience of website users. </td>
-    <td>The screen splits into 12 different people in front of a computer.</td>
+    <td>Évitez donc de vous reposer excessivement sur ce que les outils vous disent plutôt que prendre en compte l'expérience d'utilisateurs de sites Web dans la vie réelle. </td>
+    <td>L'écran se divise en 12 parties, chacune contenant une personne différente en face d'un ordinateur.</td>
   </tr>
   <tr>
-    <td>"Selecting Web Accessibility Evaluation Tools" explains what tools can and cannot do, and what to look for in tools that meet your needs. </td>
-    <td>Selecting Web Accessibility Evaluation Tools. A toolbox icon comes in followed by a signpost and a binoculars icon.</td>
+    <td>"Choisir les outils d'évaluation de l'accessibilité Web" explique ce que les outils peuvent et ne peuvent pas faire, et les critères à prendre en compte pour trouver des outils qui correspondent à vos besoins. </td>
+    <td>Choisir des outils d'évaluation de l'accessibilité Web. Une icône de boîte à outils apparaît, suivie par un panneau indicateur et une icône de jumelles.</td>
   </tr>
   <tr>
-    <td>The list of web accessibility evaluation tools has filters to help you find the right tool for your particular situation. </td>
-    <td>A list of documents with the word tool scroll down and to a filter icon, only two documents come out.</td>
+    <td>La liste des outils d'évaluation de l'accessibilité Web possède des filtres pour vous aider à trouver l'outil adapté à votre situation spécifique.</td>
+    <td>Une liste de documents avec le mot "outil" descend jusqu'à une icône de filtre dont seulement deux documents ressortent.</td>
   </tr>
   <tr>
-    <td>Equipped with tools and knowledge on how to use them, you are in good shape to find accessibility barriers more efficiently. </td>
-    <td>A person with a tools and light bulb icons. The two icons merge together to form a magnifying glass with the word barriers.</td>
+    <td>Équipés d'outils et de connaissances sur leur bonne utilisation, vous êtes dans de bonnes conditions pour trouver plus efficacement les freins à l'accessibilité.</td>
+    <td>Une personne avec des icônes d'outils et d'ampoule. Les deux icônes fusionnent pour former une loupe avec le mot "freins".</td>
   </tr>
   <tr>
-    <td>Web accessibility: essential for some, useful for all. </td>
-    <td>Icons around a computer: hand; eye; brain; ear; and mouth with sound waves.</td>
+    <td>L'accessibilité du Web : essentielle pour certains, utile à tous.</td>
+    <td>Des icônes autour d'un ordinateur s'affichent : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
-    <td>For information on tools for evaluating web accessibility, visit w3.o-r-g/W-A-I/evaluation. </td>
-    <td>Evaluation tools, W3C and Web Accessibility Initiative (WAI) logos.</td>
+    <td>Pour des ressources sur les outils d'évaluation de l'accessibilité Web, allez sur w3.o-r-g/W-A-I/evaluation. </td>
+    <td>Outils d'évaluation, logos de W3C et de l'Initiative pour l'accessibilité du Web (WAI).</td>
   </tr>
 </tbody></table>
 {% include excol.html type="end" %}
