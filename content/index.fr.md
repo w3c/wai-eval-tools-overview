@@ -4,11 +4,13 @@
 title: Outils d'évaluation - Vue d'ensemble
 
 lang: fr
-last_updated: 2021-05-17
+last_updated: 2021-07-12
 permalink: /test-evaluate/tools/fr
 
 translators:
 - name: "Rémi Bétin"
+contributors:
+- name: "Sylvie Duchateau"
 
 github:
   repository: w3c/wai-eval-tools-overview
@@ -30,8 +32,10 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 <div class="video-card" id="video-intro">
   {% include video-player.html
       yt-id="bn1XJSjc_qM"
-      captions="/content-images/wai-eval-tools-overview/tools-for-evaluating-cc.vtt|en|Captions"
-  %}
+      path="/content-images/wai-eval-tools-overview/"
+      captions="tools-for-evaluating-cc.vtt|en"
+      subtitles="tools-for-evaluating-fr.vtt|fr|default"
+ %}
   <p><a href="#alternatives">Alternatives pour la vidéo "Vue d'ensemble des outils d'évaluation"</a></p>
 </div>
 
@@ -64,56 +68,56 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
     <th align="left">Visuel</th>
   </tr>
   <tr>
-    <td>Outils d'évaluation de l'accessibilité Web.</td>
-    <td>Outils d'évaluation de l'accessibilité Web.</td>
+    <td>Des outils pour évaluer l'accessibilité web.</td>
+    <td>Des outils pour évaluer l'accessibilité web.</td>
   </tr>
   <tr>
-    <td>Des logiciels et des services en ligne existent pour vous aider à identifier les freins à l'accessibilité. </td>
-    <td>Une boîte à outil avec un ordinateur s'ouvre. Une loupe avec le mot "accessibilité" apparaît pour inspecter un site Web sur l'ordinateur.</td>
+    <td>Des logiciels et des services en ligne existent pour vous aider à identifier les problèmes d'accessibilité.</td>
+    <td>Une boîte à outils avec un ordinateur s'ouvre. Une loupe avec le mot "accessibilité" apparaît pour inspecter un site Web sur l'ordinateur.</td>
   </tr>
   <tr>
-    <td>Ils peuvent vous faire économiser beaucoup de temps et d'effort lors d'une évaluation, et vous prémunir contre la création de nouveaux freins à l'accessibilité. </td>
+    <td>Ils peuvent vous faire économiser beaucoup de temps et d'effort lors d'une évaluation, et vous prémunir contre la création de nouveaux freins à l'accessibilité.</td>
     <td>Économisez du temps et de l'effort. Éviter les freins à l'accessibilité.</td>
   </tr>
   <tr>
-    <td>Cependant, les outils ne peuvent pas tout. Certains vérifications de l'accessibilité ne peuvent pas être automatisées et nécessitent une intervention manuelle. </td>
+    <td>Cependant, les outils ne peuvent pas tout. Certains tests d'accessibilité ne peuvent pas être automatisés et nécessitent une intervention manuelle.</td>
     <td>Une personne à côté d'un ordinateur affichant un site Web utilise une loupe avec le mot "accessibilité".</td>
   </tr>
   <tr>
-    <td>Certains outils vous guident à travers les vérifications qui ne peuvent pas être automatisées.</td>
+    <td>Certains outils vous guident à travers les tests qui ne peuvent pas être automatisés.</td>
     <td>Une liste de vérifications à côté de l'ordinateur.</td>
   </tr>
   <tr>
-    <td>Certains outils vérifient une page à la fois, d'autres peuvent scanner des sites Web entiers.</td>
+    <td>Certains outils vérifient une page à la fois, tandis que d'autres peuvent vérifier des sites Web entiers.</td>
     <td>Pendant le scan d'une page Web et d'un site Web, des marques de réussite, d'échecs et des points d'interrogations sont affichés.</td>
   </tr>
   <tr>
-    <td>Les outils peuvent être intégrés à différents environnements de travail. Par exemple, au sein de votre navigateur Web, de votre système de gestion de contenu (C-M-S) et de vos outils de développement et de déploiement. </td>
+    <td>Les outils peuvent être intégrés à différents environnements de travail. Par exemple,dans votre navigateur Web, votre système de gestion de contenu (C-M-S) et vos outils de développement et de déploiement.</td>
     <td>Les mots "navigateur Web", "CMS" et "déploiement" sont affichés autour d'une icône d'outils affichée dans un ordinateur.</td>
   </tr>
   <tr>
-    <td>Ils accompagnent différents rôles au sein d'une équipe projet, tels que les créateurs de contenu, les développeurs, les designers et les <i lang="en">product owners</i>. </td>
+    <td>Ils accompagnent différents rôles au sein de l'équipe en charge du projet, tels que les rédacteurs de contenus, les développeurs, les designers et les <i lang="en">product owners</i>. </td>
     <td>L'icône des outils est entourée d'icônes : un stylo ; une icône illustrant le codage ; un pinceau et une personne avec une clé.</td>
   </tr>
   <tr>
-    <td>Notez bien que dans certains cas, les outils peuvent fournir des résultats erronés. </td>
+    <td>Notez que dans certains cas, les outils peuvent fournir des résultats incorrects.</td>
     <td>Une loupe avec un point d'exclamation dans un triangle. Plusieurs loupes sont affichées.
  </td>
   </tr>
   <tr>
-    <td>Évitez donc de vous reposer excessivement sur ce que les outils vous disent plutôt que prendre en compte l'expérience d'utilisateurs de sites Web dans la vie réelle. </td>
+    <td>Évitez donc de trop vous fier à ce que ce que disent les outils et écoutez l'expérience réelle des personnes qui utilisent votre site web.</td>
     <td>L'écran se divise en 12 parties, chacune contenant une personne différente en face d'un ordinateur.</td>
   </tr>
   <tr>
-    <td>"Choisir les outils d'évaluation de l'accessibilité Web" explique ce que les outils peuvent et ne peuvent pas faire, et les critères à prendre en compte pour trouver des outils qui correspondent à vos besoins. </td>
+    <td>"Sélectionner des outils d'évaluation de l'accessibilité Web" explique ce que les outils peuvent et ne peuvent pas faire, et les critères à prendre en compte pour trouver les outils qui correspondent à vos besoins.</td>
     <td>Choisir des outils d'évaluation de l'accessibilité Web. Une icône de boîte à outils apparaît, suivie par un panneau indicateur et une icône de jumelles.</td>
   </tr>
   <tr>
-    <td>La liste des outils d'évaluation de l'accessibilité Web possède des filtres pour vous aider à trouver l'outil adapté à votre situation spécifique.</td>
+    <td>La liste des outils pour l'évaluation de l'accessibilité web contient des filtres pour vous aider à trouver l'outil approprié à votre propre situation.</td>
     <td>Une liste de documents avec le mot "outil" descend jusqu'à une icône de filtre dont seulement deux documents ressortent.</td>
   </tr>
   <tr>
-    <td>Équipés d'outils et de connaissances sur leur bonne utilisation, vous êtes dans de bonnes conditions pour trouver plus efficacement les freins à l'accessibilité.</td>
+    <td>Une fois munis des outils et des connaissances sur leur bonne utilisation, vous avez ce qu'il vous faut pour trouver les problèmes d'accessibilité de manière plus efficace.</td>
     <td>Une personne avec des icônes d'outils et d'ampoule. Les deux icônes fusionnent pour former une loupe avec le mot "freins".</td>
   </tr>
   <tr>
@@ -121,7 +125,7 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
     <td>Des icônes autour d'un ordinateur s'affichent : une main ; un œil ; un cerveau ; une oreille ; et une bouche avec des ondes sonores.</td>
   </tr>
   <tr>
-    <td>Pour des ressources sur les outils d'évaluation de l'accessibilité Web, allez sur w3.o-r-g/W-A-I/evaluation. </td>
+    <td>Pour plus d'informations sur les outils d'évaluation de l'accessibilité Web, allez sur w3.o-r-g/W-A-I/evaluation.</td>
     <td>Outils d'évaluation, logos de W3C et de l'Initiative pour l'accessibilité du Web (WAI).</td>
   </tr>
 </tbody></table>
