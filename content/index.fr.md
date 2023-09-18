@@ -40,10 +40,10 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 </div>
 
 
-[Liste des outils d'évaluation de l'accessibilité Web](https://www.w3.org/WAI/ER/tools/)
+[Liste des outils pour l'évaluation de l'accessibilité web](https://www.w3.org/WAI/ER/tools/)
 : Inclut des informations sur plus de 100 outils. Vous pouvez utiliser les filtres pour réduire la liste aux types d'outils qui vous intéressent.
 
-[[Choisir des outils d'évaluation de l'accessibilité Web]](/test-evaluate/tools/selecting/)
+[[Sélectionner des outils d'évaluation de l'accessibilité Web]](/test-evaluate/tools/selecting/)
 : Fournit des conseils pour choisir des outils. La page décrit les caractéristiques et les fonctionnalités de différents types d'outils d'évaluation, et traite des éléments à prendre en considération en fonction de votre situation.
 
 Des ressources associées sont décrites dans : [[Évaluer l'accessibilité Web - Vue d'ensemble]](/test-evaluate/)
