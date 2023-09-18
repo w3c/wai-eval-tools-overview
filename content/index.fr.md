@@ -40,7 +40,7 @@ Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des servi
 </div>
 
 
-[Liste des outils pour l'évaluation de l'accessibilité web](https://www.w3.org/WAI/ER/tools/)
+[Liste des outils pour l'évaluation de l'accessibilité Web](https://www.w3.org/WAI/ER/tools/)
 : Inclut des informations sur plus de 100 outils. Vous pouvez utiliser les filtres pour réduire la liste aux types d'outils qui vous intéressent.
 
 [[Sélectionner des outils d'évaluation de l'accessibilité Web]](/test-evaluate/tools/selecting/)
@@ -68,8 +68,8 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
     <th align="left">Visuel</th>
   </tr>
   <tr>
-    <td>Des outils pour évaluer l'accessibilité web.</td>
-    <td>Des outils pour évaluer l'accessibilité web.</td>
+    <td>Des outils pour évaluer l'accessibilité Web.</td>
+    <td>Des outils pour évaluer l'accessibilité Web.</td>
   </tr>
   <tr>
     <td>Des logiciels et des services en ligne existent pour vous aider à identifier les problèmes d'accessibilité.</td>
@@ -105,7 +105,7 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
  </td>
   </tr>
   <tr>
-    <td>Évitez donc de trop vous fier à ce que ce que disent les outils et écoutez l'expérience réelle des personnes qui utilisent votre site web.</td>
+    <td>Évitez donc de trop vous fier à ce que ce que disent les outils et écoutez l'expérience réelle des personnes qui utilisent votre site Web.</td>
     <td>L'écran se divise en 12 parties, chacune contenant une personne différente en face d'un ordinateur.</td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
     <td>Choisir des outils d'évaluation de l'accessibilité Web. Une icône de boîte à outils apparaît, suivie par un panneau indicateur et une icône de jumelles.</td>
   </tr>
   <tr>
-    <td>La liste des outils pour l'évaluation de l'accessibilité web contient des filtres pour vous aider à trouver l'outil approprié à votre propre situation.</td>
+    <td>La liste des outils pour l'évaluation de l'accessibilité Web contient des filtres pour vous aider à trouver l'outil approprié à votre propre situation.</td>
     <td>Une liste de documents avec le mot "outil" descend jusqu'à une icône de filtre dont seulement deux documents ressortent.</td>
   </tr>
   <tr>
