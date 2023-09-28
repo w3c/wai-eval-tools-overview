@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: Outils d'évaluation - Vue d'ensemble
 
 lang: fr
