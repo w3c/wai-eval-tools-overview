@@ -24,9 +24,9 @@ footer: >
 Web accessibility evaluation tools are software programs or online services that help determine if web content meets accessibility standards.
 
 <div class="video-card" id="video-intro">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="tools-for-evaluating"
       yt-id="bn1XJSjc_qM"
-      captions="/content-images/wai-eval-tools-overview/tools-for-evaluating-cc.vtt|en|Captions"
   %}
   <p><a href="#alternatives">Alternatives for Evaluation Tools Overview Video</a></p>
 </div>

@@ -28,12 +28,10 @@ footer: >
 Les outils d'évaluation de l'accessibilité Web sont des logiciels ou des services en ligne qui aident à déterminer si le contenu Web répond aux standards de l'accessibilité.
 
 <div class="video-card" id="video-intro">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="tools-for-evaluating"
       yt-id="bn1XJSjc_qM"
-      path="/content-images/wai-eval-tools-overview/"
-      captions="tools-for-evaluating-cc.vtt|en"
-      subtitles="tools-for-evaluating-fr.vtt|fr|default"
- %}
+  %}
   <p><a href="#alternatives">Alternatives pour la vidéo "Vue d'ensemble des outils d'évaluation"</a></p>
 </div>
 
