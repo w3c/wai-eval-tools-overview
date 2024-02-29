@@ -31,7 +31,7 @@ Web accessibility evaluation tools are software programs or online services that
   <p><a href="#alternatives">Alternatives for Evaluation Tools Overview Video</a></p>
 </div>
 
-[Web Accessibility Evaluation Tools List](https://www.w3.org/WAI/ER/tools/)
+[Web Accessibility Evaluation Tools List](/test-evaluate/tools/list/)
 :   Includes information on more than 100 tools. You can use the filters to narrow down the list to the types of tools you are interested in.
 
 [[Selecting Web Accessibility Evaluation Tools]](/test-evaluate/tools/selecting/)
