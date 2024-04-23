@@ -18,9 +18,9 @@ layout: default
 ref: /test-evaluate/tools/  # translators don't change this
 
 footer: >
-  <p>Note à propos de la description vidéo : la vidéo présente sur cette page n’inclut pas l’audiodescription synchronisée car les images n’illustrent que l’audio et ne fournissent pas d’informations supplémentaires. Dans ce cas-ci, l’audiodescription serait plus distrayante qu’utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels ("transcription descriptive").</p>
-  <p><strong>Date :</strong> Mise à jour : 28 avril 2020.</p>
-   <p><strong>Rédactrice :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
+  <p>Note à propos de la description vidéo : la vidéo présente sur cette page n’inclut pas l’audiodescription synchronisée car les images n’illustrent que l’audio et ne fournissent pas d’informations supplémentaires. Dans ce cas-ci, l’audiodescription serait plus distrayante qu’utile pour la plupart des utilisateurs, y compris pour les personnes qui ne peuvent pas voir les images. La description des informations contenues dans les images est reprise dans la transcription textuelle avec description des visuels (« transcription descriptive »).</p>
+  <p><strong>Date :</strong> Mise à jour : 28 avril 2020.</p>
+   <p><strong>Rédaction :</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
   <p>Vidéo créée par le groupe de travail Éducation et Promotion (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) avec le soutien du projet <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> financé par la Commission européenne (CE) dans le cadre du programme Horizon 2020 (convention de subvention n°822245) <a href="./acknowledgements/">Remerciements</a>.</p>
 ---
 
@@ -87,7 +87,7 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
   </tr>
   <tr>
     <td>Les outils peuvent être intégrés à différents environnements de travail. Par exemple,dans votre navigateur Web, votre système de gestion de contenu (C-M-S) et vos outils de développement et de déploiement.</td>
-    <td>Les mots "navigateur Web", "CMS" et "déploiement" sont affichés autour d’une icône d’outils affichée dans un ordinateur.</td>
+    <td>Les mots « navigateur Web », « CMS » et « déploiement » sont affichés autour d’une icône d’outils affichée dans un ordinateur.</td>
   </tr>
   <tr>
     <td>Ils accompagnent différents rôles au sein de l’équipe en charge du projet, tels que les rédacteurs de contenus, les développeurs, les designers et les <i lang="en">product owners</i>. </td>
@@ -112,7 +112,7 @@ Les vidéos contiennent des animations basiques qui illustrent ce qui est dit pa
   </tr>
   <tr>
     <td>Une fois munis des outils et des connaissances sur leur bonne utilisation, vous avez ce qu’il vous faut pour trouver les problèmes d’accessibilité de manière plus efficace.</td>
-    <td>Une personne avec des icônes d’outils et d’ampoule. Les deux icônes fusionnent pour former une loupe avec le mot "freins".</td>
+    <td>Une personne avec des icônes d’outils et d’ampoule. Les deux icônes fusionnent pour former une loupe avec le mot « freins ».</td>
   </tr>
   <tr>
     <td>L’accessibilité du Web : essentielle pour certains, utile à tous.</td>
