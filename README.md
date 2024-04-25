@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/26c280a1-1493-4ac0-b877-d93062d2cb64/deploy-status)](https://app.netlify.com/sites/wai-eval-tools-overview/deploys)
+> [!IMPORTANT]
+> This repository has been archived 26 April 2024.
+>
+> [Evaluation Tools Overview](https://www.w3.org/WAI/test-evaluate/tools/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
